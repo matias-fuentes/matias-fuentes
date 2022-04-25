@@ -44,9 +44,9 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
 ## <img height="48" src="https://c.tenor.com/NjbLQCvQoC8AAAAC/bongo-cat.gif"> Don't hesitate to reach out on me! Let's talk!
 
 <p align="center">
-  <img height="64" align="center" src="https://cdn-icons-png.flaticon.com/512/174/174848.png">
-  <img height="64" align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
-  <img height="64" align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1650926302~hmac=267cee1208a82fd6abb5cfbeddea9320">
-  <img height="64" align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png">
-  <img height="64" align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png">
+  <img height="64" src="https://cdn-icons-png.flaticon.com/512/174/174848.png">
+  <img height="64" src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
+  <img height="64" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1650926302~hmac=267cee1208a82fd6abb5cfbeddea9320">
+  <img height="64" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png">
+  <img height="64" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png">
 </p>
