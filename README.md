@@ -5,6 +5,7 @@
 My name is Matías, also known as KadiKode, and I'm a Full Stack Web Developer.
 
 I strongly believe that the future, are our computers. And I had that exact same vision since the first time that I had a computer in my hands; at the age of four. And since that moment, since that precise moment wheh I got a keyboard and a mouse in my hands for the very first time, I didn't stopped.
+
 I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it. I believed, with that innocent and childish vision, that inside that tube monitor, it was hidden nothing more but the future.
 
 ***And that's who I am. A programmer who steadily believes in a vision, and a programmer who firmly contributes to a future ✨.***
