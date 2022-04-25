@@ -43,8 +43,8 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
 
 ## <img height="48" src="https://c.tenor.com/NjbLQCvQoC8AAAAC/bongo-cat.gif"> Don't hesitate to reach out on me! Let's talk!
 
-<img width="64" align="center" src="https://cdn-icons-png.flaticon.com/512/747/747374.png">
-<img width="64" align="center" src="https://cdn-icons.flaticon.com/png/512/2099/premium/2099100.png?token=exp=1650925867~hmac=27bae4cd9093eae440976dc5c60cc056">
-<img width="64" align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384088.png">
-<img width="64" align="center" src="https://cdn-icons-png.flaticon.com/512/1077/1077046.png">
-<img width="64" align="center" src="https://cdn-icons-png.flaticon.com/512/1400/1400813.png">
+<img width="64" align="center" src="https://cdn-icons-png.flaticon.com/512/174/174848.png">
+<img width="64" align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
+<img width="64" align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1650926302~hmac=267cee1208a82fd6abb5cfbeddea9320">
+<img width="64" align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png">
+<img width="64" align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png">
