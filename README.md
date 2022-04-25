@@ -12,24 +12,24 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
 
 ## Tech Stack
 
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=5d2395)
-![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=5d2395)
-![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=5d2395)
-![SASS](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=5d2395)
-![JQUERY](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=5d2395)
+![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
+![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
+![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
+![SASS](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=8E2DE2)
+![JQUERY](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=8E2DE2)
 <br>
-![REACT](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=5d2395)
-![NEXT.JS](https://img.shields.io/badge/next.js-grey?style=for-the-badge&logo=next.js&logoColor=white&labelColor=5d2395)
-![MYSQL](https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=5d2395)
-![PYTHON](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=5d2395)
-![FLASK](https://img.shields.io/badge/flask-grey?style=for-the-badge&logo=flask&logoColor=white&labelColor=5d2395)
+![REACT](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
+![NEXT.JS](https://img.shields.io/badge/next.js-grey?style=for-the-badge&logo=next.js&logoColor=white&labelColor=8E2DE2)
+![MYSQL](https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2)
+![PYTHON](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
+![FLASK](https://img.shields.io/badge/flask-grey?style=for-the-badge&logo=flask&logoColor=white&labelColor=8E2DE2)
 <br>
-![GIT](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=5d2395)
-![NETLIFY](https://img.shields.io/badge/netlify-grey?style=for-the-badge&logo=netlify&logoColor=white&labelColor=5d2395)
-![HEROKU](https://img.shields.io/badge/heroku-grey?style=for-the-badge&logo=heroku&logoColor=white&labelColor=5d2395)
-![VERCEL](https://img.shields.io/badge/vercel-grey?style=for-the-badge&logo=vercel&logoColor=white&labelColor=5d2395)
-![FIREBASE](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=5d2395)
-![C](https://img.shields.io/badge/c%20(Language)-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=5d2395)
+![GIT](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
+![NETLIFY](https://img.shields.io/badge/netlify-grey?style=for-the-badge&logo=netlify&logoColor=white&labelColor=8E2DE2)
+![HEROKU](https://img.shields.io/badge/heroku-grey?style=for-the-badge&logo=heroku&logoColor=white&labelColor=8E2DE2)
+![VERCEL](https://img.shields.io/badge/vercel-grey?style=for-the-badge&logo=vercel&logoColor=white&labelColor=8E2DE2)
+![FIREBASE](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)
+![C](https://img.shields.io/badge/c%20(Language)-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=8E2DE2)
 
 ## Stats
 
@@ -43,8 +43,10 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
 
 ## <img height="48" src="https://c.tenor.com/NjbLQCvQoC8AAAAC/bongo-cat.gif"> Don't hesitate to reach out on me! Let's talk!
 
-<img width="64" align="center" src="https://cdn-icons-png.flaticon.com/512/174/174848.png">
-<img width="64" align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
-<img width="64" align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1650926302~hmac=267cee1208a82fd6abb5cfbeddea9320">
-<img width="64" align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png">
-<img width="64" align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png">
+<p align="center">
+  <img width="64" align="center" src="https://cdn-icons-png.flaticon.com/512/174/174848.png">
+  <img width="64" align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
+  <img width="64" align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1650926302~hmac=267cee1208a82fd6abb5cfbeddea9320">
+  <img width="64" align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png">
+  <img width="64" align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png">
+</p>
