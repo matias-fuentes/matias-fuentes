@@ -41,10 +41,10 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
 <img align="right" src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matias-fuentes&theme=radical&title_color=8E2DE2&text_color=fff">
 
-## Don't hesitate to reach out on me! Let's talk! <img height="24" src="https://c.tenor.com/NjbLQCvQoC8AAAAC/bongo-cat.gif">
+## Don't hesitate to reach out on me! Let's talk! <img height="36" src="https://c.tenor.com/NjbLQCvQoC8AAAAC/bongo-cat.gif">
 
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img width="64" align="right" src="https://cdn-icons-png.flaticon.com/512/21/21155.png">
+<img width="64" align="right" src="https://cdn-icons.flaticon.com/png/512/2099/premium/2099199.png?token=exp=1650925458~hmac=3143b5e1762711cea5e4d432d9a4cebe">
+<img width="64" align="right" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536569.png?token=exp=1650925384~hmac=abd1eca66be9fd7665893edf67b6567c">
+<img width="64" align="right" src="https://cdn-icons-png.flaticon.com/512/1384/1384028.png">
+<img width="64" align="right" src="https://cdn-icons-png.flaticon.com/512/1400/1400829.png">
