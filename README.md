@@ -1,3 +1,16 @@
+<h1 align="center">Hello World, here Matías Fuentes.</h1>
+
+# Who I am
+
+My name is Matías, also known as KadiKode, and I'm a Full Stack Web Developer.
+
+I strongly believe that the future, are our computers. And I had that exact same vision since the first time that I had a computer in my hands; at the age of four. And since that moment, since that precise moment wheh I got a keyboard and a mouse in my hands for the very first time, I didn't stopped.
+I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it. I believed, with that innocent and childish vision, that inside that tube monitor, it was hidden nothing more but the future.
+
+***And that's who I am. A programmer who steadily believes in a vision, and a programmer who firmly contributes to a future ✨.***
+
+## Tech Stack
+
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
 ![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=8E2DE2)
@@ -18,6 +31,10 @@
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 
+## Stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=matias-fuentes&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+
+## Top Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matias-fuentes&theme=radical&title_color=8E2DE2&text_color=fff">
