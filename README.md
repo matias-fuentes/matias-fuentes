@@ -33,9 +33,11 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 
 ## Stats
-
+<img align="right" src="https://c.tenor.com/j3cVEPj4bzkAAAAC/cat-typing.gif">
 <img src="https://github-readme-stats.vercel.app/api?username=matias-fuentes&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
 ## Top Languages
 
+<img align="right" src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matias-fuentes&theme=radical&title_color=8E2DE2&text_color=fff">
+
