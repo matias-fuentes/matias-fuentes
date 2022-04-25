@@ -17,17 +17,13 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=5d2395)
 ![SASS](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=5d2395)
 ![JQUERY](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=5d2395)
-
 <br>
-
 ![REACT](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=5d2395)
 ![NEXT.JS](https://img.shields.io/badge/next.js-grey?style=for-the-badge&logo=next.js&logoColor=white&labelColor=5d2395)
 ![MYSQL](https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=5d2395)
 ![PYTHON](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=5d2395)
 ![FLASK](https://img.shields.io/badge/flask-grey?style=for-the-badge&logo=flask&logoColor=white&labelColor=5d2395)
-
 <br>
-
 ![GIT](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=5d2395)
 ![NETLIFY](https://img.shields.io/badge/netlify-grey?style=for-the-badge&logo=netlify&logoColor=white&labelColor=5d2395)
 ![HEROKU](https://img.shields.io/badge/heroku-grey?style=for-the-badge&logo=heroku&logoColor=white&labelColor=5d2395)
@@ -45,7 +41,7 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
 <img align="right" src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matias-fuentes&theme=radical&title_color=8E2DE2&text_color=fff">
 
-## Don't hesitate to reach out on me! Let's talk! <img src="https://c.tenor.com/NjbLQCvQoC8AAAAC/bongo-cat.gif">
+## Don't hesitate to reach out on me! Let's talk! <img height="24" src="https://c.tenor.com/NjbLQCvQoC8AAAAC/bongo-cat.gif">
 
 <img src="">
 <img src="">
