@@ -41,7 +41,7 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
 <img align="right" src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matias-fuentes&theme=radical&title_color=8E2DE2&text_color=fff">
 
-## Don't hesitate to reach out on me! Let's talk! <img height="64" src="https://c.tenor.com/NjbLQCvQoC8AAAAC/bongo-cat.gif">
+## Don't hesitate to reach out on me! Let's talk! <img height="48" src="https://c.tenor.com/NjbLQCvQoC8AAAAC/bongo-cat.gif">
 
 <img width="64" align="center" src="https://cdn-icons-png.flaticon.com/512/21/21155.png">
 <img width="64" align="center" src="https://cdn-icons.flaticon.com/png/512/2099/premium/2099199.png?token=exp=1650925458~hmac=3143b5e1762711cea5e4d432d9a4cebe">
