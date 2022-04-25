@@ -32,9 +32,8 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 
-<h1>Stats</h1>
----
-<img width="300" align="right" src="https://c.tenor.com/j3cVEPj4bzkAAAAC/cat-typing.gif">
+## Stats
+<img width="275" align="right" src="https://c.tenor.com/j3cVEPj4bzkAAAAC/cat-typing.gif">
 <img src="https://github-readme-stats.vercel.app/api?username=matias-fuentes&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
 ## Top Languages
