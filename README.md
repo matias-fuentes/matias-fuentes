@@ -1,6 +1,6 @@
-<h1 align="center">Hello World, here Matías Fuentes.</h1>
+# Hello World, here Matías Fuentes.
 
-# Who I am
+## Who I am
 
 My name is Matías, also known as KadiKode, and I'm a Full Stack Web Developer.
 
