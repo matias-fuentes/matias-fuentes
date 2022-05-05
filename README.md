@@ -13,23 +13,23 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
 ## Tech Stack
 
 [![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/HTML-CSS-JS-and-SASS-projects)
-![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
-![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
-![SASS](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=8E2DE2)
-![JQUERY](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=8E2DE2)
+[![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/HTML-CSS-JS-and-SASS-projects)
+[![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/HTML-CSS-JS-and-SASS-projects)
+[![SASS](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/HTML-CSS-JS-and-SASS-projects)
+[![JQUERY](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/HTML-CSS-JS-and-SASS-projects)
 <br>
-![REACT](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
-![NEXT.JS](https://img.shields.io/badge/next.js-grey?style=for-the-badge&logo=next.js&logoColor=white&labelColor=8E2DE2)
-![MYSQL](https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2)
-![PYTHON](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
-![FLASK](https://img.shields.io/badge/flask-grey?style=for-the-badge&logo=flask&logoColor=white&labelColor=8E2DE2)
+[![REACT](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/React-projects)
+[![NEXT.JS](https://img.shields.io/badge/next.js-grey?style=for-the-badge&logo=next.js&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Next-projects)
+[![MYSQL](https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/SQL-projects)
+[![PYTHON](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Python-projects)
+[![FLASK](https://img.shields.io/badge/flask-grey?style=for-the-badge&logo=flask&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Flask-projects)
 <br>
-![GIT](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
-![NETLIFY](https://img.shields.io/badge/netlify-grey?style=for-the-badge&logo=netlify&logoColor=white&labelColor=8E2DE2)
-![HEROKU](https://img.shields.io/badge/heroku-grey?style=for-the-badge&logo=heroku&logoColor=white&labelColor=8E2DE2)
-![VERCEL](https://img.shields.io/badge/vercel-grey?style=for-the-badge&logo=vercel&logoColor=white&labelColor=8E2DE2)
-![FIREBASE](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)
-![C](https://img.shields.io/badge/c%20(Language)-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=8E2DE2)
+[![GIT](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes?tab=repositories)
+[![NETLIFY](https://img.shields.io/badge/netlify-grey?style=for-the-badge&logo=netlify&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Netlify-projects)
+[![HEROKU](https://img.shields.io/badge/heroku-grey?style=for-the-badge&logo=heroku&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Heroku-projects)
+[![VERCEL](https://img.shields.io/badge/vercel-grey?style=for-the-badge&logo=vercel&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Next-projects)
+[![FIREBASE](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/NoSQL-projects)
+[![C](https://img.shields.io/badge/c%20(Language)-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/C-projects)
 
 ## Stats
 
