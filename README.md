@@ -47,7 +47,7 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
   <a href="https://www.facebook.com/matias.fuentes.fb/">
     <img height="64" src="https://cdn-icons-png.flaticon.com/512/174/174848.png">
   </a>
-  <a href="MatiasDamianFuentes@outlook.es">
+  <a href="mailto: MatiasDamianFuentes@outlook.es">
     <img height="72" align="top" src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
   </a>
   <a href="https://www.linkedin.com/in/matías-fuentes-437414191/">
