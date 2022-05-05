@@ -33,18 +33,20 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
 
 ## Stats
 
-<img height="225" align="right" src="https://c.tenor.com/j3cVEPj4bzkAAAAC/cat-typing.gif">
 <img height="225" src="https://github-readme-stats.vercel.app/api?username=matias-fuentes&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+<img height="225" align="right" src="https://c.tenor.com/j3cVEPj4bzkAAAAC/cat-typing.gif">
 
 ## Top Languages
 
-<img align="right" src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matias-fuentes&theme=radical&title_color=8E2DE2&text_color=fff">
+<img align="right" src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif">
 
 ## <img height="48" src="https://c.tenor.com/NjbLQCvQoC8AAAAC/bongo-cat.gif"> Don't hesitate to reach out on me! Let's talk!
 
 <p align="center">
-  <img height="64" src="https://cdn-icons-png.flaticon.com/512/174/174848.png">
+  <a href="https://www.facebook.com/matias.fuentes.fb/">
+    <img height="64" src="https://cdn-icons-png.flaticon.com/512/174/174848.png">
+  </a>
   <img height="72" align="top" src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
   <img height="64" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1650926302~hmac=267cee1208a82fd6abb5cfbeddea9320">
   <img height="72" align="top" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png">
