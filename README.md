@@ -43,8 +43,8 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
 ## Top Languages
 
 <div>
-  <a height="200" href="https://github.com/matias-fuentes/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matias-fuentes&theme=radical&title_color=8E2DE2&text_color=fff">
+  <a href="https://github.com/matias-fuentes/">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matias-fuentes&theme=radical&title_color=8E2DE2&text_color=fff">
   </a>
   <img height="200" src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif">
 </div>
