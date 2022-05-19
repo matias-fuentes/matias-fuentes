@@ -44,7 +44,7 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
 
 <div>
   <a href="https://github.com/matias-fuentes/">
-    <img height="275" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matias-fuentes&theme=radical&title_color=8E2DE2&text_color=fff">
+    <img height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matias-fuentes&theme=radical&title_color=8E2DE2&text_color=fff">
   </a>
   <img align="center" height="225" src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif">
 </div>
