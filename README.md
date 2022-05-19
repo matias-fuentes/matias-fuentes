@@ -34,19 +34,19 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
 ## Stats
 
 <div>
-  <img height="200" align="right" src="https://c.tenor.com/j3cVEPj4bzkAAAAC/cat-typing.gif">
   <a href="https://github.com/matias-fuentes/">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=matias-fuentes&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
   </a>
+  <img height="200" src="https://c.tenor.com/j3cVEPj4bzkAAAAC/cat-typing.gif">
 </div>
 
 ## Top Languages
 
 <div>
-  <img height="200" align="right" src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif">
   <a height="200" href="https://github.com/matias-fuentes/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matias-fuentes&theme=radical&title_color=8E2DE2&text_color=fff">
   </a>
+  <img height="200" src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif">
 </div>
 
 ## <img height="48" src="https://c.tenor.com/NjbLQCvQoC8AAAAC/bongo-cat.gif"> Don't hesitate to reach out on me! Let's talk!
