@@ -59,7 +59,7 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
     <img height="72" align="top" src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
   </a>
   <a href="https://www.linkedin.com/in/matías-fuentes-437414191/">
-    <img height="64" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1650926302~hmac=267cee1208a82fd6abb5cfbeddea9320">
+    <img height="64" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1656556390~hmac=ecc35aba8d202377b41a4b0567b92cc6">
   </a>
   <a href="https://www.youtube.com/channel/UCZuxA5HoWbVrW1x4NITkeJw/">
     <img height="72" align="top" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png">
