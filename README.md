@@ -53,7 +53,7 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
 
 <p align="center">
   <a href="https://www.facebook.com/matias.fuentes.fb/">
-    <img height="64" src="https://cdn-icons-png.flaticon.com/512/174/174848.png">
+    <img height="64" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png">
   </a>
   <a href="mailto: MatiasDamianFuentes@outlook.es">
     <img height="72" align="top" src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
