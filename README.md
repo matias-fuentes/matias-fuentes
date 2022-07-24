@@ -4,11 +4,11 @@
 
 My name is Matías, also known as KadiKode, and I'm a Full Stack Web Developer.
 
-I strongly believe that the future, are our computers. And I had that exact same vision since the first time that I had a computer in my hands; at the age of four. And since that moment, since that precise moment wheh I got a keyboard and a mouse in my hands for the very first time, I didn't stopped.
+I strongly believe that the future, are our computers. And I had that exact same vision since the first time that I had a computer in my hands; at the age of only four. And since that moment, since that very first moment that I got a keyboard and a mouse in my hands for the first time, I didn't stopped.
 
 I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
 
-***I believed, with that childish and innocent vision, that inside that tube monitor, it was hidden nothing more but the future ✨.***
+***I believed, with that childish and innocent vision, that inside that tube monitor, it was hidden nothing more but the future. ✨***
 
 ## Tech Stack
 
@@ -42,20 +42,20 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
 
 ## Top Languages
 
-<div>
+<div height="350">
   <a href="https://github.com/matias-fuentes/">
-    <img height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matias-fuentes&theme=radical&title_color=8E2DE2&text_color=fff">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matias-fuentes&theme=radical&title_color=8E2DE2&text_color=fff">
   </a>
-  <img align="center" height="225" src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif">
+  <img src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif">
 </div>
 
 ## <img height="48" src="https://c.tenor.com/NjbLQCvQoC8AAAAC/bongo-cat.gif"> Don't hesitate to reach out on me! Let's talk!
 
-<p align="center">
+<div align="center">
   <a href="https://www.facebook.com/matias.fuentes.fb/">
     <img height="64" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png">
   </a>
-  <a href="mailto: MatiasDamianFuentes@outlook.es">
+  <a href="mailto: mfuentesdeveloper@gmail.com">
     <img height="72" align="top" src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
   </a>
   <a href="https://www.linkedin.com/in/matías-fuentes-437414191/">
@@ -67,4 +67,4 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
   <a href="http://instagram.com/fuentes.matiasdamian/">
     <img height="64" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png">
   </a>
-</p>
+</div>
