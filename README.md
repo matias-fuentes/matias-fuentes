@@ -2,7 +2,7 @@
 
 ## Who I am
 
-My name is Matías, a young argentinian Full Stack Web Developer.
+Hello! What a nice surprise to see you here! My name is Matías, and I'm a young argentinian Full Stack Web Developer.
 
 I strongly believe that the future, are our computers. And I had that exact same vision since the first time that I had a computer in my hands; at the age of only four. And since that moment, since that very first moment that I got a keyboard and a mouse in my hands for the first time, I didn't stopped.
 
