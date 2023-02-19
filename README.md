@@ -52,10 +52,7 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
 ## <img height="48" src="https://c.tenor.com/NjbLQCvQoC8AAAAC/bongo-cat.gif"> Don't hesitate to reach out on me! Let's talk!
 
 <div align="center">
-  <a href="https://www.facebook.com/matias.fuentes.fb/">
-    <img height="64" src="./icons/facebook.png">
-  </a>
-  <a href="mailto: mfuentesdeveloper@gmail.com">
+  <a href="mailto: matiasfuentesdev@gmail.com">
     <img height="72" align="top" src="./icons/gmail.png">
   </a>
   <a href="https://www.linkedin.com/in/matías-fuentes-437414191/">
@@ -63,8 +60,5 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
   </a>
   <a href="https://www.youtube.com/@MatiasFuentes-DEV">
     <img height="72" align="top" src="./icons/youtube.png">
-  </a>
-  <a href="http://instagram.com/fuentes.matiasdamian/">
-    <img height="64" src="./icons/instagram.png">
   </a>
 </div>
