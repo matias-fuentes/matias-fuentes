@@ -16,20 +16,21 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
 [![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/HTML-CSS-JS-and-SASS-projects)
 [![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/HTML-CSS-JS-and-SASS-projects)
 [![SASS](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/HTML-CSS-JS-and-SASS-projects)
-[![JQUERY](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/HTML-CSS-JS-and-SASS-projects)
-<br>
 [![REACT](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/React-projects)
+<br>
 [![NEXT.JS](https://img.shields.io/badge/next.js-grey?style=for-the-badge&logo=next.js&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Next-projects)
+[![TYPESCRIPT](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/TypeScript-projects)
 [![MYSQL](https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/SQL-projects)
+[![FIREBASE](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/NoSQL-projects)
+[![CYPRESS](https://img.shields.io/badge/cypress-grey?style=for-the-badge&logo=cypress&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Cypress-and-Cucumber-projects)
+[![CUCUMBER](https://img.shields.io/badge/cucumber-grey?style=for-the-badge&logo=cucumber&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Cypress-and-Cucumber-projects)
+<br>
+[![REDUX](https://img.shields.io/badge/redux-grey?style=for-the-badge&logo=redux&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Redux-projects)
 [![PYTHON](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Python-projects)
 [![FLASK](https://img.shields.io/badge/flask-grey?style=for-the-badge&logo=flask&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Flask-projects)
-<br>
-[![GIT](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes?tab=repositories)
-[![NETLIFY](https://img.shields.io/badge/netlify-grey?style=for-the-badge&logo=netlify&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Netlify-projects)
-[![HEROKU](https://img.shields.io/badge/heroku-grey?style=for-the-badge&logo=heroku&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Heroku-projects)
-[![VERCEL](https://img.shields.io/badge/vercel-grey?style=for-the-badge&logo=vercel&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Next-projects)
-[![FIREBASE](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/NoSQL-projects)
 [![C](https://img.shields.io/badge/c%20(Language)-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/C-projects)
+[![NETLIFY](https://img.shields.io/badge/netlify-grey?style=for-the-badge&logo=netlify&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Netlify-projects)
+[![VERCEL](https://img.shields.io/badge/vercel-grey?style=for-the-badge&logo=vercel&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Vercel-projects)
 
 ## Stats
 
@@ -55,7 +56,7 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
   <a href="mailto: matiasfuentesdev@gmail.com">
     <img height="72" align="top" src="./icons/gmail.png">
   </a>
-  <a href="https://www.linkedin.com/in/matías-fuentes-437414191/">
+  <a href="https://www.linkedin.com/in/matias-damian-fuentes/">
     <img height="64" src="./icons/linkedin.png">
   </a>
   <a href="https://www.youtube.com/@MatiasFuentes-DEV">
