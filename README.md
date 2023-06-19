@@ -19,7 +19,7 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
 [![REACT](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/React-projects)
 <br>
 [![REACT NATIVE](https://img.shields.io/badge/react%20native-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/React-projects)
-[![NEXT.JS](https://img.shields.io/badge/next.js-grey?style=for-the-badge&logo=next.js&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Next.js-projects)
+[![NEXT.JS](https://img.shields.io/badge/next.js-grey?style=for-the-badge&logo=next.js&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Nextjs-projects)
 [![TYPESCRIPT](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/TypeScript-projects)
 [![MYSQL](https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/SQL-projects)
 [![FIREBASE](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/NoSQL-projects)
