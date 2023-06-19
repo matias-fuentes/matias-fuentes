@@ -18,19 +18,23 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
 [![SASS](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/HTML-CSS-JS-and-SASS-projects)
 [![REACT](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/React-projects)
 <br>
-[![NEXT.JS](https://img.shields.io/badge/next.js-grey?style=for-the-badge&logo=next.js&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Next-projects)
+[![REACT NATIVE](https://img.shields.io/badge/react%20native-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/React-projects)
+[![NEXT.JS](https://img.shields.io/badge/next.js-grey?style=for-the-badge&logo=next.js&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Next.js-projects)
 [![TYPESCRIPT](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/TypeScript-projects)
 [![MYSQL](https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/SQL-projects)
 [![FIREBASE](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/NoSQL-projects)
-[![CYPRESS](https://img.shields.io/badge/cypress-grey?style=for-the-badge&logo=cypress&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Cypress-and-Cucumber-projects)
-[![CUCUMBER](https://img.shields.io/badge/cucumber-grey?style=for-the-badge&logo=cucumber&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Cypress-and-Cucumber-projects)
 <br>
+[![EXPRESS](https://img.shields.io/badge/express-grey?style=for-the-badge&logo=express&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Express-projects)
+[![MONGODB](https://img.shields.io/badge/mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/MongoDB-projects)
 [![REDUX](https://img.shields.io/badge/redux-grey?style=for-the-badge&logo=redux&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Redux-projects)
 [![PYTHON](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Python-projects)
 [![FLASK](https://img.shields.io/badge/flask-grey?style=for-the-badge&logo=flask&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Flask-projects)
-[![C](https://img.shields.io/badge/c%20(Language)-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/C-projects)
-[![NETLIFY](https://img.shields.io/badge/netlify-grey?style=for-the-badge&logo=netlify&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Netlify-projects)
+<br>
+[![CYPRESS](https://img.shields.io/badge/cypress-grey?style=for-the-badge&logo=cypress&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Cypress-and-Cucumber-projects)
+[![CUCUMBER](https://img.shields.io/badge/cucumber-grey?style=for-the-badge&logo=cucumber&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Cypress-and-Cucumber-projects)
 [![VERCEL](https://img.shields.io/badge/vercel-grey?style=for-the-badge&logo=vercel&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Vercel-projects)
+[![NETLIFY](https://img.shields.io/badge/netlify-grey?style=for-the-badge&logo=netlify&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Netlify-projects)
+[![C](https://img.shields.io/badge/c%20(Language)-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/C-projects)
 
 ## Stats
 
