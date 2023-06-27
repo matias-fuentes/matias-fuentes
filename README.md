@@ -40,7 +40,7 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
 
 <div>
   <a href="https://github.com/matias-fuentes/">
-    <img height="225" src="https://github-readme-stats.vercel.app/api?username=matias-fuentes&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+    <img height="225" src="https://matiasfuentes-github-stats.vercel.app/api?username=matias-fuentes&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
   </a>
   <img height="225" src="https://c.tenor.com/j3cVEPj4bzkAAAAC/cat-typing.gif">
 </div>
@@ -49,7 +49,7 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
 
 <div>
   <a href="https://github.com/matias-fuentes/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matias-fuentes&theme=radical&title_color=8E2DE2&text_color=fff">
+    <img src="https://matiasfuentes-github-stats.vercel.app/api/top-langs/?username=matias-fuentes&theme=radical&title_color=8E2DE2&text_color=fff">
   </a>
   <img src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" height="285">
 </div>
