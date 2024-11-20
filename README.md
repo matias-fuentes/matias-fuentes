@@ -36,15 +36,6 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
 [![NETLIFY](https://img.shields.io/badge/netlify-grey?style=for-the-badge&logo=netlify&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Netlify-projects)
 [![C](https://img.shields.io/badge/c%20(Language)-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/C-projects)
 
-## Stats
-
-<div>
-  <a href="https://github.com/matias-fuentes/">
-    <img height="225" src="https://matiasfuentes-github-stats.vercel.app/api?username=matias-fuentes&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
-  </a>
-  <img height="225" src="https://c.tenor.com/j3cVEPj4bzkAAAAC/cat-typing.gif">
-</div>
-
 ## Top Languages
 
 <div>
