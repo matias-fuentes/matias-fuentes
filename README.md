@@ -60,10 +60,4 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
   <a href="mailto: matiasfuentesdev@gmail.com">
     <img height="72" align="top" src="./icons/gmail.png">
   </a>
-  <a href="https://www.linkedin.com/in/matias-damian-fuentes-sardi/">
-    <img height="64" src="./icons/linkedin.png">
-  </a>
-  <a href="https://www.youtube.com/@MatiasFuentes-DEV">
-    <img height="72" align="top" src="./icons/youtube.png">
-  </a>
 </div>
