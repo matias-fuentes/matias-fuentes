@@ -4,9 +4,9 @@
 
 Hello! What a nice surprise to see you here! My name is Matías, and I'm a software engineer highly passioned about AI, robotics, cloud, and web development.
 
-I strongly believe that the future, are our computers. And I had that exact same vision since the first time that I had a computer in my hands; at the age of only four. And since that moment, since that very first moment that I got a keyboard and a mouse in my hands for the first time, I didn't stopped.
+I strongly believe that the future lies on our computers. And I had that exact same vision since the very first time I had a computer in my hands; at the age of only four. Since that very first moment I got a keyboard and a mouse in my hands for the first time, I didn't stop.
 
-I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
+I used it every single day since then, doing COUNTLESS of great things and contributions with it, because I believed in it.
 
 ***I believed, with that childish and innocent vision, that inside that tube monitor, it was hidden nothing more but the future. ✨***
 
