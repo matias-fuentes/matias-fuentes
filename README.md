@@ -36,6 +36,15 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
 [![NETLIFY](https://img.shields.io/badge/netlify-grey?style=for-the-badge&logo=netlify&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/Netlify-projects)
 [![C](https://img.shields.io/badge/c%20(Language)-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=8E2DE2)](https://github.com/matias-fuentes/C-projects)
 
+## Stats
+
+<div>
+  <a href="https://github.com/matias-fuentes/">
+    <img height="225" src="https://matiasfuentes-github-stats.vercel.app/api?username=matias-fuentes&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+  </a>
+  <img height="225" src="https://c.tenor.com/j3cVEPj4bzkAAAAC/cat-typing.gif">
+</div>
+
 ## Top Languages
 
 <div>
@@ -50,5 +59,11 @@ I used it EVERY SINGLE DAY, doing COUNTLESS of things, because I believed in it.
 <div align="center">
   <a href="mailto: matiasfuentesdev@gmail.com">
     <img height="72" align="top" src="./icons/gmail.png">
+  </a>
+  <a href="https://www.linkedin.com/in/matias-damian-fuentes-sardi/">
+    <img height="64" src="./icons/linkedin.png">
+  </a>
+  <a href="https://www.youtube.com/@MatiasFuentes-DEV">
+    <img height="72" align="top" src="./icons/youtube.png">
   </a>
 </div>
