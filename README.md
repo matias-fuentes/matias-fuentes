@@ -58,7 +58,7 @@ I used it every single day since then, doing COUNTLESS of great things and contr
   <a href="mailto: matiasfuentesdev@gmail.com">
     <img height="72" align="top" src="./icons/gmail.png">
   </a>
-  <a href="https://www.linkedin.com/in/matias-damian-fuentes-sardi/">
+  <a href="https://www.linkedin.com/in/matias-damian-fuentes/">
     <img height="64" src="./icons/linkedin.png">
   </a>
   <a href="https://www.youtube.com/@MatiasFuentes-DEV">
