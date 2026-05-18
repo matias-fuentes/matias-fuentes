@@ -1,6 +1,6 @@
 ## Who I am
 
-Hello world, What a nice surprise to see you here! My name is Matías, and I'm a software engineer highly passioned about AI, robotics, quantum computing, quantum trading, cloud, and web development.
+Hello world, What a nice surprise to see you here! My name is Matías, and I'm a software engineer highly passioned about AI, robotics, quantum computing, quantum trading, cloud, mobile development and web development.
 
 I strongly believe that the future lies on our computers. And I had that exact same vision since the very first time I had a computer in my hands; at the age of only four. Since that very first moment I got a keyboard and a mouse in my hands for the first time, I didn't stop.
 
